@@ -1,6 +1,6 @@
-package com.example.repository;
+package com.example.springboothandson.repository;
 
-import com.example.domain.Category;
+import com.example.springboothandson.domain.Category;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
